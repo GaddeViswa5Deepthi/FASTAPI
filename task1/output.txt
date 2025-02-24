@@ -1,0 +1,269 @@
+A PATIENT INFO MALE: /Yes
+A PATIENT INFO FEMALE: N/A
+A PATIENT INFO hispanic: /Yes
+A PATIENT INFO patient information White: N/A
+A PATIENT INFO patient information Black: N/A
+A PATIENT INFO patient information Other: /On
+A PATIENT INFO patient information Other text: N/A
+A PATIENT INFO patient information English: /On
+A PATIENT INFO patient information other language: N/A
+A PATIENT INFO patient information other language text: N/A
+B SIGHT NORMAL: N/A
+B SIGHT IMPAIRED: /Yes
+B HEARING DEAF: /Yes
+B HEARING NORMAL: N/A
+B HEARING IMPAIRED: N/A
+B SIGHT BLIND: N/A
+B HEARING HEARING AID: N/A
+B HEARING AID L: N/A
+B HEARING AID R: N/A
+I TIME: /AM
+I DISCHARGE TIME: /Yes
+C DECISION MAKING CAPABLE: N/A
+C DECISION MAKING REQUIRES: /Yes
+D EMERGENCY CONTACT emergency contact name: Sunil Reddy
+D EMERGENCY CONTACT emergency contact phone: 8754556499
+D EMERGENCY CONTACT emergency contact name 2: N/A
+D EMERGENCY CONTACT emergency contact phone 2: N/A
+E  MEDICAL CONTIONS medical condition primary dx: diagnosis diagnosis diagnosis diagnosis diagnosis 
+E  MEDICAL CONTIONS medical condition reason for transfer brief summary: N/A
+E PRIMARY DIAGNOSIS AT DISCHARGE: good
+E REASON FOR TRANSFER: transfer
+E SURGICAL PROCEDURES PERFORMED DURING STAY: all
+L MEDICATION: /Yes
+L_AM1: /AM
+L_AM2: /AM
+F INFECTION STATUS POSITIVE: N/A
+F INFECTION STATUS NEGATIVE: /Yes
+F INFECTION STATUS NOT KNOWN: N/A
+F INFECTION CONTROL infection control issues Screening date: 01/01/2025
+L_AM3: /PM
+L_AM4: /PM
+F INFECTION CONTROL infection control issues MRSA: /On
+F INFECTION CONTROL infection control issues MRSA SITE: N/A
+F INFECTION CONTROL infection control issues VRE: /On
+F INFECTION CONTROL infection control issues VRE SITE: N/A
+F INFECTION CONTROL nfection control issues ESBL: /On
+F INFECTION CONTROL infection control issues ESBLE SITE: N/A
+F INFECTION CONTROL infection control issues MIDRO: N/A
+F INFECTION CONTROL infection control issues MIDRO STIE: N/A
+F INFECTION CONTROL infection control issues CDiff: N/A
+F INFECTION CONTROL infection control issues C DIFF: N/A
+F INFECTION CONTROL infection control issues OTHER: N/A
+F INFECTION CONTROL infection control issues OTHER SITE: N/A
+F INFECTION CONTROL infection control issues None_2: /On
+F INFECTION CONTROL infection control issues Contact: N/A
+F INFECTION CONTROL infection control issues Droplet: N/A
+F INFECTION CONTROL infection control issues Airborne: N/A
+G PATIENT RISK None Known: N/A
+G PATIENT RISK Elopement: N/A
+G PATIENT RISK Pressure Ulcers: N/A
+G PATIENT RISK Harm to self: /On
+G PATIENT RISK Harm to others: N/A
+G PATIENT RISK Falls: /On
+G PATIENT RISK Difficulty swallowing: N/A
+G PATIENT RISK Seizures: N/A
+G PATIENT RISK Other_5: N/A
+G PATIENT RISK other 5: N/A
+G PATIENT RISK Reasons for use: None
+G PATIENT RISK ALLERGIES: N/A
+G PATIENT RISK  Latex Allergy: N/A
+G PATIENT RISK Dye AllergyReaction: N/A
+I TRANSFERRED Facility Name: Bangalore
+I TRANSFERRED  Date: 02/08/2025
+I TRANSFERRED Unit: 1
+I TRANSFERRED Phone: 8754556499
+I TRANSFERRED Fax: N/A
+I TRANSFERRED Discharge Nurse: Samantha
+I TRANSFERRED Phone_2: N/A
+I ADMIT DATE TXT: 01/01/2025
+I ADMIT TIME TXT: 10:00
+I DISCHARGE DATE TXT: 01/31/2025
+I DISCHAGE TIME TXT: 1:00
+J TRANSFERRED TO  Name: Eldercare
+J TRANSFERRED TO Address 1: New York
+J TRANSFERRED TO Address 2: N/A
+J TRANSFERRED TO Phone: 8754556499
+J TRANSFERRED TO FAX: N/A
+K PHYSICIAN CONTACTS primary care name: Julia
+K PHYSICIAN CONTACTS Phone_3: N/A
+K PHYSICIAN CONTACTS Hospitalist Name: Robert
+K PHYSICIAN CONTACTS Phone: N/A
+L TIME SENSITIVE Anticoagulants: /On
+L TIME SENSITIVE Date: 02/01/2025
+L TIME SENSITIVE TIME: 10:00
+L TIME SENSITIVE Antibiotics: /On
+L ANTIBIOTICS DATE: 03/01/2025
+L TIME SENS ANTIBIO TIME: 11:00
+L TIME SENSITIVE Insulin: /On
+L INSULIN DATE: 04/01/2025
+L INSULIN TIME: 12:00
+L TIME SENSITIVE Other_4: N/A
+L TIME SENSITIVE OTHER DATE: 05/01/2025
+L OTHER TIME: 1:00
+L TIME SENSITIVE CHF DIANOSIS: /Yes
+L TIME SENSITIVE CONDIDTION CHF NEW: /Yes
+L last echocardiogram date: 01/01/2025
+L TIME SENSITIVE LVEF: 20
+L TIME SENSITIVE PROTON PUMP: /No
+L TIME SENSITIVE Inhospital prophylaxis and can be: N/A
+L TIME SENSITIVE PROTON SPECIFIC DIAG: N/A
+L TIME SENSITIVE PRESENT ONE OR MORE ANTIBIOTICS: /Yes
+L TIME SENSITIVE REASONS: Bad condition
+G PATIENT RISK RESTRAINTS: /No
+L TIME SENSITIVE CRITICAL LAB: /No
+L TIME SENSITIVE list critical lab: N/A
+M PAIN ASSESSEMNT LVEF: 5
+G PATIENT RISK ALLERGIE: /none
+M PAIN ASSESSEMNT Date: N/A
+M PAIN ASSESSEMNT time: N/A
+M PAIN TIME AM: N/A
+G PATIENT RISK LATEX: /No
+G PATIENT RISK DYE ALLERGY: /Yes
+N FOLLOWING REPORTS Physicians Orders: /On
+N FOLLOWING REPORTSDischarge Summary: /On
+N FOLLOWING REPORTSMedication Reconciliation: N/A
+H ADVANCE CARE ADVANCE DIRECTIVE: N/A
+H ADVANCE CARE LIVING WILL: N/A
+H ADVANCE CARE DNR: N/A
+H ADVANCE CARE NOT INTUBATE: N/A
+H ADVANCE CARE NO HOSPITALIZE: N/A
+H ADVANCE CARE ARTIFICIAL FEEDING: N/A
+H ADVANCE CARE HOSPICE: N/A
+N FOLLOWING REPORTSDischarge Medication List: N/A
+N FOLLOWING REPORTS PASRR Forms: N/A
+N FOLLOWING REPORTSSocial and Behavioral History: N/A
+N FOLLOWING REPORTSWound Care: N/A
+following reports If yes please list Any critical lab or diagnostic test pending at the time of discharge Yes No: N/A
+N FOLLOWING REPORTSTreatment Orders: N/A
+N FOLLOWING REPORTSLab reports: /On
+N FOLLOWING REPORTSXray: /On
+N FOLLOWING REPORTSEKG: N/A
+N FOLLOWING REPORTSCT Scan: /On
+N FOLLOWING REPORTSMRI: N/A
+Check Box6: N/A
+patient name: Sunil Reddy Narala
+LAST 4 SSN#: 1234
+DOB: 06/21/1982
+O VITAL SIGNS Date: N/A
+O VITAL SIGNS Date Time Taken: N/A
+O TIME AM: N/A
+O VITAL SIGNS HT: N/A
+O INCH: N/A
+O VITAL SIGNS WT: N/A
+O VITAL SIGNS Temp: N/A
+O VITAL SIGNS BP: N/A
+O VITAL SIGNS BP 2: N/A
+O VITAL SIGNS HR: N/A
+O VITAL SIGNS RR: N/A
+O SP02: N/A
+P PATIENT HEALTH continent: N/A
+P PATIENT HEALTH Ostomy: N/A
+P CATHETER: N/A
+P PATIENT HEALTH Catheter Type: N/A
+P PATIENT HEALTH date inserted: N/A
+P PATIENT HEALTH undefined_3: N/A
+P PATIENT HEALTH FOLEY CATHETER: N/A
+P PATIENT HEALTH Urinary retention due to: N/A
+P PATIENT HEALTH undefined_4: N/A
+P PATIENT HEALTH Monitoring intake and output: N/A
+P PATIENT HEALTH Skin Condition: N/A
+P PATIENT HEALTH undefined_5: N/A
+U MENTAL CONGNITIVE Alert oriented follows instructions: N/A
+P PATIENT HEALTH Other_6: N/A
+P PATIENT HEALTH Attempt to remove catheter made in hospital: N/A
+U MENTAL CONGNITIVE Alert disoriented but can follow simple instructions: N/A
+P PATIENT HEALTH ATTEMP REMOVE CATHETER: N/A
+U MENTAL CONGNITIVE Alert disoriented and cannot follow simple instructions: N/A
+P PATIENT HEALTH Date Removed: N/A
+U MENTAL CONGNITIVE Not Alert: N/A
+P PATIENT HEALTH Continent_2: N/A
+P PATIENT HEALTH Ostomy_2: N/A
+P PATIENT HEALTH Date of Last BM: N/A
+V TREATMENT Heparin Lock  Date changed: N/A
+V TREATMENT Date: N/A
+P PATIENT HEALTH Date_2: N/A
+V TREATMENT IV  PICC  Portacath Access  Date inserted: N/A
+P PATIENT HEALTH INFLUENZA: N/A
+P PATIENT HEALTH PNEUMOCOCCAL: N/A
+P PATIENT HEALTH DATE_3: N/A
+V TREATMENT Internal Cardiac Defibrillator: N/A
+V TREATMENT Pacemaker: N/A
+V TREATMENT Wound Vac: N/A
+Q NUTRITION HYDRATION dietary instru: N/A
+V TREATMENT Other_7: N/A
+Q NUTRITION HYDRATION: N/A
+V TREATMENT CPAP: N/A
+V TREATMENT BiPAP: N/A
+Q NUTRITION insertion date: N/A
+V TREATMENT Nebulizer: N/A
+V TREATMENT Other_8: N/A
+V TREATMENT Nasal Cannula: N/A
+V TREATMENT Mask Type: N/A
+Q NUTRITION HYDRATION Supplements type TPN Other Supplements: N/A
+V TREATMENT Oxygen  liters: N/A
+V TREATMENT PRN: N/A
+V TREATMENT Continuous: N/A
+Q Eating: N/A
+V TREATMENT Trach Size: N/A
+V TREATMENT Ventilator Settings: N/A
+R TREATMENTS PT  Frequency: N/A
+R TREATMENTS OT  Frequency: N/A
+V TREATMENT Suction: N/A
+R TREATMENTS OT FREQUENCY: N/A
+R TREATMENTS OT FREQUEN undefined_16: N/A
+R SPEECH FREQ: N/A
+W PERSONAL ITEMS Artificial Eye: N/A
+W PERSONAL ITEMS Prosthetic: N/A
+W PERSONAL ITEMS Walker: N/A
+W PERSONAL ITEMS Contacts: N/A
+W PERSONAL ITEMS Cane: N/A
+W PERSONAL ITEMS Other_9: N/A
+R TREATMENT DIALYSIS: N/A
+W PERSONAL ITEMS Eyeglasses: N/A
+W PERSONAL ITEMS Crutches: N/A
+W PERSONAL ITEMS Dentures: N/A
+W PERSONAL ITEMS Hearing Aids: N/A
+S Ambulation: N/A
+wheelchair type: N/A
+appliance type: N/A
+prosthesis type: N/A
+lifting device type: N/A
+S_Transfer: N/A
+S_weight_bearing_l: N/A
+S_weight_bearing_r: N/A
+T 1: N/A
+T 2: N/A
+T 3: N/A
+T SKIN CARE If yes please list Any critical lab or diagnostic test pending at the time of discharge Yes No: N/A
+V IV PICC DATE INSERTED: N/A
+V TREATMENT Type: N/A
+V TREATMENT Respiratory  Delivery Device: N/A
+V TREATMENT undefined_12: N/A
+V TREATMENT undefined_13: N/A
+V TREATMENT undefined_14: N/A
+V TREATMENT undefined_15: N/A
+V TREATMENT Type_2: N/A
+R TREATMENTS undefined_17: N/A
+R TREATMENTS Dialysis  Frequency: N/A
+W PERSONAL ITEMS U: N/A
+W PERSONAL ITEMS L: N/A
+W PERSONAL ITEMS Partial: N/A
+W PERSONAL ITEMS L_2: N/A
+W PERSONAL ITEMS R: N/A
+X COMMENTS: N/A
+S 5: N/A
+S 6: N/A
+S 7: N/A
+S 8: N/A
+Y certification: /Y1
+Y certification_2: N/A
+Y PHYSICIAN CERT: /Good
+Y PHYSICIAN CERT Date_4: N/A
+Y PHYSICIAN CERT Phone Number: N/A
+Y PHYSICIAN CERT Date_5: N/A
+Y PHYSICIAN CERT Effective date of medical condition: N/A
+Y PRINTED PHYSICIAN ARNP NAME AND TITLE: N/A
+Y PHYSICIAN CERT Person completing form: Sunil Reddy
+Y PHYSICIAN CERT Phone Number_2: 8754556499
+Y PHYSICIAN CERT ARNP LICENSE #: N/A

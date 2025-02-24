@@ -9,6 +9,7 @@ from .config import Settings
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import UploadFile
 import os
+
 models.Base.metadata.create_all(bind=engine)
 app = FastAPI() #create instance
 origins=["*"]
